@@ -4,4 +4,4 @@ This is the implementation of the "A Novel Trend based SAX Reduction Technique f
 Authors: Reem Al-Daihani and Hamdi Yahyaoui. Copyright 2019
 
 
-Note: This code is currently a private code. If you would like a copy of the code, please send an email to the developer, and she will reply to your email as soon as possible with the code.
+Note: This code is currently a private code. If you would like a copy of the code, please send an email to the developer (reem.aldaihani@cs.ku.edu.kw), and she will reply to your email as soon as possible with the code.
